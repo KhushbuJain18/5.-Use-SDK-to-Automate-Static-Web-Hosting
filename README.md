@@ -13,3 +13,10 @@ AWS S3 static website hosting using Python (boto3)
 Bucket :-
 ![image](https://github.com/user-attachments/assets/0cbe8072-a0fc-4b99-9fc0-8663be60c0c9)
 
+Output :-
+
+![image](https://github.com/user-attachments/assets/ac375959-5c66-4bc3-992d-719f472fccdb)
+
+
+
+
